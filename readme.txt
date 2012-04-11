@@ -50,7 +50,7 @@ Mix and match
 
 = I have an issue with Spotfy Play Button plugin, where do I go to report the issue? =
 
-There are a number of places, the most popular being on the [WordPress.org forum](http://wordpress.org/tags/spotify-play-buttonforum_id=10), you can also report an issue on [Github page](https://github.com/WolfieZero/wp-spotify-play-button/issues/) or [contact myself directly](http://wolfiezero.com/contact/).
+There are a number of places, the most popular being on the [WordPress.org forum](http://wordpress.org/tags/spotify-play-button?forum_id=10) (not avaliable yet), you can also report an issue on [Github page](https://github.com/WolfieZero/wp-spotify-play-button/issues/) or [contact myself directly](http://wolfiezero.com/contact/).
 
 
 = Is there a bleeding edge version of Spotfy Play Button? =
