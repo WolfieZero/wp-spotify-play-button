@@ -13,7 +13,13 @@ Easily add the Spotify Play Button via a short code
 
 == Description ==
 
-Creating polls is now easy! With this plugin you can easily create a poll, add it to a page or post and users can instantly vote. Allows the creation of unlimited polls with up to 10 answers each. Theming is also possible by altering the files in `view/client` (though hope to improve theming greatly in future updates).
+Easily add the Spotify Play Button to your post and pages in WordPress by using the short code `[spotify-play]`.
+
+= Examples =
+
+Simply track play
+`[spotify-play src="spotify:track:1PP5EnZyE465gO0XNDcW9D"]`
+
 
 
 
