@@ -17,10 +17,23 @@ Easily add the Spotify Play Button to your post and pages in WordPress by using 
 
 = Examples =
 
-Simply track play
+Simply track play (most basic requirement)
 `[spotify-play src="spotify:track:1PP5EnZyE465gO0XNDcW9D"]`
 
+Change the theme to white (aka "light")
+`[spotify-play src="spotify:track:1PP5EnZyE465gO0XNDcW9D" theme="white"]`
 
+Use the compact size
+`[spotify-play src="spotify:track:1PP5EnZyE465gO0XNDcW9D" size="compact"]`
+
+View in cover art mode
+`[spotify-play src="spotify:track:1PP5EnZyE465gO0XNDcW9D" view="coverart"]`
+
+Cutomise the width and height
+`[spotify-play src="spotify:track:1PP5EnZyE465gO0XNDcW9D" width="100" height="50"]`
+
+Mix and match
+`[spotify-play src="spotify:artist:5LfGQac0EIXyAN8aUwmNAQ" theme="white" size="compact"]`
 
 
 == Installation ==
