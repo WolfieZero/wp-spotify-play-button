@@ -35,6 +35,10 @@ Cutomise the width and height
 Mix and match
 `[spotify-play src="spotify:artist:5LfGQac0EIXyAN8aUwmNAQ" theme="white" size="compact"]`
 
+= Note =
+
+This plugin is no-way affiliated with Spotify.
+
 
 == Installation ==
 
